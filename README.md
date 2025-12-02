@@ -30,7 +30,7 @@ a partir de variables de calidad del aire y meteorológicas.
   para la competición de Kaggle.
 
 - `INFORME_PROYECTO.PDF`  
-  Informe final (5–10 páginas) con descripción completa del proyecto y resultados.
+  Informe final con descripción completa del proyecto y resultados.
 
 - `results/`  
   Métricas en CSV (`baseline_metrics.csv`, `dl_metrics.csv`).
