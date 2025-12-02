@@ -29,9 +29,6 @@ a partir de variables de calidad del aire y meteorológicas.
   Entrenamiento final del modelo GRU_log_target y generación de `submission.csv`
   para la competición de Kaggle.
 
-- `ENTREGA1.PDF`  
-  Informe corto de la primera entrega (contexto, datos, objetivo, métricas).
-
 - `INFORME_PROYECTO.PDF`  
   Informe final (5–10 páginas) con descripción completa del proyecto y resultados.
 
@@ -45,13 +42,13 @@ a partir de variables de calidad del aire y meteorológicas.
 
 Los datos provienen de la competición **YDL Air Pollution** en Kaggle.
 
-1. Descargar `train.csv`, `test.csv` y `sample_submission.csv` desde la página de la competición.  
+1. Descargar `train.csv`, `test.csv` y `sample.csv` desde la página de la competición.  
 2. Colocar estos archivos en la raíz del repositorio (mismo nivel que los notebooks).  
 
 ## Cómo ejecutar los notebooks en Google Colab
 
 1. Abrir el notebook deseado en GitHub y hacer clic en **“Open in Colab”** (o subir el `.ipynb` a Colab).  
-2. Asegurarse de tener los CSV (`train.csv`, `test.csv`, `sample_submission.csv`) en el entorno de ejecución
+2. Asegurarse de tener los CSV (`train.csv`, `test.csv`, `sample.csv`) en el entorno de ejecución
    (subidos al runtime o montando Google Drive).  
 3. Ejecutar todas las celdas de arriba abajo.
 
