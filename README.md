@@ -10,7 +10,7 @@ modelos de deep learning (LSTM y GRU).
 
 ## 1. Video de presentación
 
-👉 **Video en YouTube:** _pendiente_  
+👉 **Video en YouTube:** https://youtu.be/5Whr8Q-ZlTc
 
 ---
 
